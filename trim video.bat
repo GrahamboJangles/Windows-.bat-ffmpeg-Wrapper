@@ -1,6 +1,5 @@
 @echo off
-::set /P video_path=Drop video in the Window or type path: 
-set video_path="C:\Users\Ryzen\Videos\Captures\SkaterXL 2022-07-03 19-16-42.mp4"
+set /P video_path=Drop video in the Window or type path: 
 echo %video_path%
 echo 									Hint: hours:minutes:seconds
 set /P start=Seconds into the video from the beginning to cut, as a number OR timecode (example: 00:05:10): 
