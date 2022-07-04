@@ -3,7 +3,7 @@ A .bat ffmpeg wrapper for simpler ffmpeg use in Windows
 
 
 # To be honest, this guy's repository is way better just use this
-https://github.com/KnightDanila/BAT_FFMPEG
+## https://github.com/KnightDanila/BAT_FFMPEG
 
 # How To's
 
